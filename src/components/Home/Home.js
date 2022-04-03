@@ -16,7 +16,6 @@ const Home = () => {
                     <img className='img-fluid' src="laptop.png" alt="laptopImg" />
                 </div>
             </section>
-
             <CustomerReviews />
         </div>
     );
