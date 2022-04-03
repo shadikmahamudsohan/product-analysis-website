@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Eric Lopez",
+        "description": "It was a very nice idea for this nice laptop. It is very easy to use and there is no problems so far. I am so happy that I bought this laptop.",
+        "rating": 4.9
+    },
+    {
+        "id": 2,
+        "name": "Diane James",
+        "description": "OMG! This is the best laptop I ever see. It runs so smooth. There was no problems when I use it. It saves so much time because I am a rect developer.",
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "name": "Beverly Perry",
+        "description": "I really recommend this laptop. I used it for one year and there where no slight problem. It runs so quickly and it secure your privacy.",
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Lois Ramirez",
+        "description": "This laptop is so awesome. I am a web developer so I need a first laptop to increase my production. This laptop helps me to write code and runs that so smoothly.",
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "name": "Walter Miller",
+        "description": "I used many laptop and computer in my life. But those became slow after few days. But I am using this laptop for 6 months and the seep doesn't decrease at all! ",
+        "rating": 4.5
+    },
+    {
+        "id": 6,
+        "name": "Rose Gray",
+        "description": "This laptop performs very well. I helped me so much to do my interviews for web development companies. The sound quality is so nice and it is very fast.",
+        "rating": 4.7
+    }
+]
