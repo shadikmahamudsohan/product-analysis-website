@@ -2,17 +2,19 @@ import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 
 const Reviews = ({ review }) => {
+    const { name, description, rating } = review;
     return (
         <div className='mb-4'>
             <Col>
                 <Card>
                     <Card.Body>
                         <Card.Title>
-                            <h3 className='mb-3'>{review.name}</h3>
+                            <span className="fs-4">{name}</span>
                         </Card.Title>
                         <Card.Text>
-                            {review.description}
-                            <h5 className='mt-3'>Rating: <span className='text-warning'>{review.rating}</span></h5>
+                            {description}
+                            <br />
+                            <span className='text-warning fs-4'>{rating}</span>
                         </Card.Text>
                     </Card.Body>
                 </Card>
